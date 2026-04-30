@@ -20,6 +20,16 @@ export default {
         "golden-amber": "#E19A3F",
         "dark-amber": "#7C4323",
       },
+      fontSize: {
+        h1: "37px",
+        h2: "30px",
+        h3: "25px",
+        "2xl": "23px",
+        xl: "20px",
+        lg: "18px",
+        md: "17px",
+        sm: "16px",
+      },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
       },
