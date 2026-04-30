@@ -1,5 +1,19 @@
 # React + TypeScript + Vite
 
+## To Run
+
+```bash
+npm install
+npm run dev
+```
+
+## Agent Files
+- `DESIGN.md`: Design tokens, component specs, and layout rules.
+- `CLAUDE.md`: Project instructions, stack, file structure, and coding rules.
+
+
+## Template Overview
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
