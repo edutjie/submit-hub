@@ -4,7 +4,7 @@ export const PAST_SUBMISSIONS: Assignment[] = [
   {
     id: "hw1",
     name: "NLP Homework 1: Text Tokenization and BoW",
-    dueDate: "03/15/2026",
+    dueDate: "3/15/2026",
     description: "Implement a basic text tokenizer and bag-of-words representer.",
     status: "Submitted",
     submittedFiles: [
@@ -14,7 +14,7 @@ export const PAST_SUBMISSIONS: Assignment[] = [
   {
     id: "hw_intro",
     name: "NLP Intro: Environment Setup",
-    dueDate: "03/01/2026",
+    dueDate: "3/1/2026",
     description: "Install PyTorch, HuggingFace Transformers and write a hello-world script.",
     status: "Submitted",
     submittedFiles: [
@@ -25,7 +25,7 @@ export const PAST_SUBMISSIONS: Assignment[] = [
   {
     id: "lab1",
     name: "Lab 1: Word Embeddings",
-    dueDate: "03/25/2026",
+    dueDate: "3/25/2026",
     description: "Train Word2Vec embeddings on Wikipedia dump using Gensim.",
     status: "Submitted",
     submittedFiles: [
